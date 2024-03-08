@@ -1,5 +1,6 @@
 jupyterlab
 numpy
 scipy
+scikit-image
 matplotlib
 opencv-python
